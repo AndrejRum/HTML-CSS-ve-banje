@@ -1,0 +1,13 @@
+.divv{
+  border: 2px solid black;
+  height: 20px;
+  display: inline-block;
+  padding: 20px 20px;
+  
+}
+.p{
+  width: 20px;
+}
+.button{
+  cursor: pointer;
+}

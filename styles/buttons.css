@@ -1,0 +1,69 @@
+.subscribe-dugme{
+  background-color: rgb(206, 0, 0);
+  color: white;
+  border: none;
+  border-radius:  4px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: opacity 0,16s;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  vertical-align: top;
+}
+.subscribe-dugme:hover{
+ opacity: 0.7;
+}
+.subscribe-dugme:active{
+  opacity: 0.5;
+}
+
+.join-dugme {
+  background-color: white;
+  border-color: rgb(41, 118 ,211);
+  border-style: solid;
+  border-width: 1px ;
+  color:rgb(41, 118 ,211);
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: backraund-color 1s,
+   color 2s, opacity 0,16s;
+   padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+   
+  
+}
+.join-dugme:hover{
+  background-color:rgb(41, 118 ,211) ;
+  color:white;
+
+}
+
+.join-dugme:active{ 
+  opacity: 0.7;
+}
+
+
+.tweet-dugme{
+  background-color: rgb(56, 118, 250);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 74px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 15;
+  cursor: pointer;
+  transition: box-shadow 0.15s, opacity 0.16s;
+  vertical-align: top;
+}
+.tweet-dugme:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20)
+}
+.tweet-dugme:active{
+  opacity: 0.7;
+}
